@@ -1,3 +1,5 @@
 import streamlit as st
 
-st.titlte("latihan 
+st.title("latihan deploy")
+st.ballons()
+st.snow()
